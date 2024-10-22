@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nfointion.github.io/nfointion.txt.gz
+Sitemap: https://nfointion.github.io/app/nfointion.txt.gz
+Sitemap: https://nfointion.github.io/assets/nfointion.txt.gz
+Sitemap: https://nfointion.github.io/css/nfointion.txt.gz
+Sitemap: https://nfointion.github.io/includes/nfointion.txt.gz
+Sitemap: https://nfointion.github.io/item/nfointion.txt.gz
+Sitemap: https://nfointion.github.io/src/nfointion.txt.gz
